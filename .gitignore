@@ -1,0 +1,6 @@
+legacy/
+gray-1.0/
+*.circ
+../bin/
+.metadata/
+gray-1.0.jar
